@@ -1,3 +1,25 @@
+# Test técnico Front end - ML
+  - autor: Harold Castro
+
+# Comandos para correr el proyecto
+  - npm install
+  - npm start (client and server)
+  - Comandos opcionales:
+
+# Tecnologías usadas
+  - React.js
+  - React-router-dom
+  - Sass
+  - redux
+  - styled components
+
+
+# TO DO
+  - Tests
+  - Server Part
+  - SEO Improvement 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
