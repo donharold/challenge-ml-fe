@@ -1,10 +1,9 @@
-# Test técnico Front end - ML
+# Test-Challenge Front end - ML
   - autor: Harold Castro
 
 # Comandos para correr el proyecto
   - npm install
   - npm start (client and server)
-  - Comandos opcionales:
 
 # Tecnologías usadas
   - React.js
